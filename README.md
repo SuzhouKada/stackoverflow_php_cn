@@ -6,3 +6,4 @@
 - 有些直接放在了[好问](http://www.goodq.com)上，没来得及搬到这里来
 
 ### 目录
+[在PHP中，单引号字符串和双引号字符串之间有什么区别？](https://github.com/SuzhouKada/stackoverflow_php_cn/blob/master/what-is-the-difference-between-single-quoted-and-double-quoted-strings-in-php.md)
